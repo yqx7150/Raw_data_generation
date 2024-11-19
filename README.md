@@ -15,7 +15,7 @@
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/gif%20(7).gif" alt="GIF 1" style="width:300px;height:300px;"></td>
     
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/gif%20(2).gif" alt="GIF 2" style="width:300px;height:300px;"></td>
-    <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/gif%20(3).gif" alt="GIF 3" style="width:300px;height:300px;"><br><span style="font-size: 300px; font-style: italic;">PET投影域生成</span></td>
+    <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/gif%20(3).gif" alt="GIF 3" style="width:300px;height:300px;"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/gif%20(4).gif" alt="GIF 4" style="width:300px;height:300px;"></td>
