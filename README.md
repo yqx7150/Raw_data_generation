@@ -1,5 +1,5 @@
 # 
-![](https://github.com/yqx7150/Raw_data_generation-/blob/main/images/high_resolution1.png)
+![](https://github.com/yqx7150/Raw_data_generation-/blob/main/images/high_resolution2.png)
 # Generation of PAT Projection Domain
 <table>
   <tr>
