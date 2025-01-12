@@ -32,11 +32,15 @@
 
 # Generation of PET images dominated by the projection domain
 <table>
-  <tr>
+  
+  # Generation of projection
+    <tr>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino1.gif" alt="GIF 1" style="width:300px;height:300px;"></td>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino2.gif" alt="GIF 2" style="width:300px;height:300px;"></td>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino3.gif" alt="GIF 3" style="width:300px;height:300px;"></td>
   </tr>
+
+  # Generation of images
   <tr>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/img1.gif" alt="GIF 4" style="width:300px;height:300px;"></td>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/img2.gif" alt="GIF 5" style="width:300px;height:300px;"></td>
