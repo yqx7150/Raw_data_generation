@@ -39,6 +39,7 @@
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino3.gif" alt="GIF 3" style="width:300px;height:300px;"></td>
   </tr>
   <tr>
+    # Generation of images
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/img1.gif" alt="GIF 4" style="width:300px;height:300px;"></td>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/img2.gif" alt="GIF 5" style="width:300px;height:300px;"></td>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/img3.gif" alt="GIF 6" style="width:300px;height:300px;"></td>
@@ -47,11 +48,13 @@
 
 <table>
   <tr>
+    # Generation of projection
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino4.gif" alt="GIF 1" style="width:300px;height:300px;"></td>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino5.gif" alt="GIF 2" style="width:300px;height:300px;"></td>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/sino6.gif" alt="GIF 3" style="width:300px;height:300px;"></td>
   </tr>
   <tr>
+    # Generation of images
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/img4.gif" alt="GIF 4" style="width:300px;height:300px;"></td>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/img5.gif" alt="GIF 5" style="width:300px;height:300px;"></td>
     <td><img src="https://github.com/yqx7150/Raw_data_generation/blob/main/gifs/PET/img6.gif" alt="GIF 6" style="width:300px;height:300px;"></td>
